@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React/static/css/main.c8078669.css",
+    "main.css": "/React/static/css/main.0e0f0dbc.css",
     "main.js": "/React/static/js/main.44306121.js",
     "static/js/787.46538cf4.chunk.js": "/React/static/js/787.46538cf4.chunk.js",
     "static/media/codigoFondo.jpg": "/React/static/media/codigoFondo.5d86e2fa53c04520821a.jpg",
@@ -12,12 +12,12 @@
     "static/media/Ejercicio4B.png": "/React/static/media/Ejercicio4B.f5795a6342c8f7f44704.png",
     "static/media/logo.svg": "/React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/React/index.html",
-    "main.c8078669.css.map": "/React/static/css/main.c8078669.css.map",
+    "main.0e0f0dbc.css.map": "/React/static/css/main.0e0f0dbc.css.map",
     "main.44306121.js.map": "/React/static/js/main.44306121.js.map",
     "787.46538cf4.chunk.js.map": "/React/static/js/787.46538cf4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8078669.css",
+    "static/css/main.0e0f0dbc.css",
     "static/js/main.44306121.js"
   ]
 }
